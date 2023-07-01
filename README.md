@@ -2,7 +2,7 @@
 Olá! Sou Lucas Henryq, um estudante apaixonado por tecnologia, especialmente por ferramentas tecnológicas como softwares, frameworks, bibliotecas, linguagens de programação e inteligência artificial. Meu objetivo é adentrar no mercado de trabalho em um campo que esteja firmemente atrelado a essas tecnologias em constante evolução.
 
 ### Socials 🌐
-![Instagrssssssam](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/lucashenryq_/)
 
 <!--
 **lucashenryq/lucashenryq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
