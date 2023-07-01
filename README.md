@@ -1,5 +1,5 @@
 ### About me 👋
-Olá! Sou Lucas Henryq, um estudante apaixonado por tecnologia, especialmente por ferramentas tecnológicas como softwares, frameworks, bibliotecas, linguagens de programação e inteligência artificial. Meu objetivo é adentrar no mercado de trabalho em um campo que esteja firmemente atrelado a essas tecnologias em constante evolução.
+I'm Lucas Henryq, a passionate technology student with a deep interest in technological tools such as software, frameworks, libraries, programming languages, and artificial intelligence. My goal is to enter the job market in a field closely tied to these rapidly evolving technologies.
 
 ### Socials 🌐
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ilogaan)
